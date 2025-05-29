@@ -1,7 +1,7 @@
 # QC Failure Case Study – Clinical Chemistry Scenario Trainer
 
 **Author:** Claire L. Price  
-🔗 [QC Failure](https://claireprice.github.io/QC-Failure/)
+🔗 [QC Failure](https://claireprice.github.io/Failing-QC/))
 
 ---
 
