@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this educational tool in teaching, assessment, or training, please cite it using the metadata below."
+title: "QC Failure Case Study – Clinical Chemistry Scenario Trainer"
+authors:
+  - family-names: Price
+    given-names: Claire Louise
+    affiliation: Swansea University Medical School, Swansea SA2 8PP UK
+    orcid: "https://orcid.org/0000-0002-6045-4835" 
+    website: "https://claireprice.github.io/acid-base-tools-homepage/"
+date-released: 2025-05-29
+version: "1.0"
+license: "CC-BY-NC-4.0"
+url: "https://claireprice.github.io/QC-Failure//"
+repository-code: "https://github.com/claireprice/QC-Failure"
